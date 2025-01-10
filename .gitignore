@@ -1,0 +1,6 @@
+# .gitignore
+.env
+
+data/
+
+update_logs/
